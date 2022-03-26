@@ -13,3 +13,6 @@
 
 ### Playing the game "brain-calc":
 [![asciicast](https://asciinema.org/a/7401x1xRs1KFWCZyjCsoLOFZ3.svg)](https://asciinema.org/a/7401x1xRs1KFWCZyjCsoLOFZ3)
+
+### Playing the game "brain-gcd":
+[![asciicast](https://asciinema.org/a/GfWLSDYEKq1ZsHyJ7LBut8lkC.svg)](https://asciinema.org/a/GfWLSDYEKq1ZsHyJ7LBut8lkC)

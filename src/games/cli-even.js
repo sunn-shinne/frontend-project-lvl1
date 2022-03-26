@@ -9,7 +9,6 @@ const evenGame = () => {
   while (questionNumber < 3) {
     const number = getRandomInt();
     const answer = (number % 2 === 0) ? 'yes' : 'no';
-
     const isAnswerCorrect = askQuestion(number, answer, name);
     if (!isAnswerCorrect) {
       break;
