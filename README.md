@@ -6,3 +6,6 @@
 
 ### Linter status:
 [![Linter Status](https://github.com/sunn-shinne/frontend-project-lvl1/workflows/linter-check/badge.svg)](https://github.com/sunn-shinne/frontend-project-lvl1/actions)
+
+### Demonstration:
+[![asciicast](https://asciinema.org/a/MnALljnKpu0jDCo2TMl80pNx5.svg)](https://asciinema.org/a/MnALljnKpu0jDCo2TMl80pNx5)
