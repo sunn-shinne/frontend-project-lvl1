@@ -11,7 +11,12 @@ const createProgression = () => {
   return arr;
 };
 
-const progressionToString = (arr, hiddenId) => arr.reduce((acc, item, index) => ((hiddenId === index) ? `${acc} ..` : `${acc} ${item}`), '');
+const progressionToString = (arr, hiddenId) => {
+  const res = arr
+    .map((item, index) => ((index === hiddenId) ? '..' : item))
+    .join(' ');
+  return res;
+};
 
 const progressionGame = () => {
   const name = getName();
